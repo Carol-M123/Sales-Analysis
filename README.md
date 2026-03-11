@@ -1,10 +1,11 @@
 # Sales Analysis
 
 ### Project Overview
-This long-term sales data aims to provide actionable insights that explain what is driving revenue growth, which products and customers contribute the most, and performance changes over time.
+This long-term sales data aims to provide actionable insights that explain what is driving revenue growth, which products and customers contribute the most, and performance changes over time.<img width="782" height="449" alt="Screenshot 2026-03-11 120213" src="https://github.com/user-attachments/assets/43157326-9ddf-4044-b71c-9f2284fd0f7b" />
+
 
 ### Data Sources
-Sales Data : The primary dataset used for this analysis is the "sales_Data.Csv" file, containing detailed information about each sale made by particular customer in a certain region.
+Sales Data : The primary dataset used in this analysis is the "sales_Data.Csv" file, containing detailed information about each sale made by particular customer in a certain region.
 
 ### Tools
 - Excel - Data cleaning
