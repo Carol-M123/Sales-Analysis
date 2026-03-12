@@ -11,7 +11,10 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
-This long-term sales data aims to provide actionable insights that explain what is driving revenue growth, which products and customers contribute the most, and performance changes over time.<img width="782" height="449" alt="Screenshot 2026-03-11 120213" src="https://github.com/user-attachments/assets/43157326-9ddf-4044-b71c-9f2284fd0f7b" />
+This long-term sales data aims to provide actionable insights that explain what is driving revenue growth, which products and customers contribute the most, and performance changes over time.
+
+<img width="804" height="455" alt="Screenshot 2026-03-12 100047" src="https://github.com/user-attachments/assets/b9e38180-96a9-4d54-a66a-0e2087b29dce" />
+
 
 
 ### Data Sources
